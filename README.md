@@ -6,7 +6,7 @@
 The main objective of the Zomato Revenue & Profitability Analysis project is to understand how Zomato earns money, where it spends money, and which factors affect its overall profit. By analyzing a large dataset of customer orders, restaurants, delivery details, and operational costs, the goal is to identify the key drivers that increase or reduce Zomato’s profitability.
 
 
-🧩 Business Problems
+# 🧩 Business Problems
 
 
 1️⃣ Find total orders, gross revenue & net revenue.
@@ -32,12 +32,12 @@ The main objective of the Zomato Revenue & Profitability Analysis project is to 
 1️⃣2️⃣ Top cuisines by total revenue.
 
 
-🔑 Key Insights
+# 🔑 Key Insights
 
 . In the PPT
 
 
-🛠 Tools & Technologies Used
+# 🛠 Tools & Technologies Used
 
 . SQL
 
