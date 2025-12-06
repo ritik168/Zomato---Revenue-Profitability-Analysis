@@ -1,0 +1,501 @@
+restaurant_id,city,cuisine
+1,Kolkata,Fast Food
+2,Bengaluru,Fast Food
+3,Delhi,Continental
+4,Mumbai,North Indian
+5,Chennai,Fast Food
+6,Chennai,South Indian
+7,Mumbai,Fast Food
+8,Mumbai,Continental
+9,Delhi,South Indian
+10,Bengaluru,Continental
+11,Chennai,South Indian
+12,Delhi,Chinese
+13,Bengaluru,North Indian
+14,Delhi,North Indian
+15,Chennai,Continental
+16,Mumbai,North Indian
+17,Mumbai,Continental
+18,Bengaluru,Continental
+19,Kolkata,Continental
+20,Bengaluru,North Indian
+21,Kolkata,Continental
+22,Delhi,North Indian
+23,Delhi,Continental
+24,Chennai,Fast Food
+25,Kolkata,Continental
+26,Chennai,South Indian
+27,Mumbai,Continental
+28,Kolkata,Chinese
+29,Bengaluru,Continental
+30,Mumbai,South Indian
+31,Mumbai,South Indian
+32,Bengaluru,North Indian
+33,Mumbai,Fast Food
+34,Kolkata,Continental
+35,Chennai,North Indian
+36,Mumbai,Fast Food
+37,Kolkata,Continental
+38,Delhi,Chinese
+39,Kolkata,Continental
+40,Chennai,South Indian
+41,Kolkata,South Indian
+42,Bengaluru,Chinese
+43,Chennai,North Indian
+44,Delhi,Fast Food
+45,Bengaluru,Continental
+46,Kolkata,South Indian
+47,Chennai,North Indian
+48,Delhi,Chinese
+49,Bengaluru,South Indian
+50,Delhi,Chinese
+51,Kolkata,Continental
+52,Delhi,Fast Food
+53,Mumbai,South Indian
+54,Bengaluru,South Indian
+55,Delhi,Continental
+56,Kolkata,North Indian
+57,Kolkata,Fast Food
+58,Delhi,South Indian
+59,Kolkata,Fast Food
+60,Chennai,South Indian
+61,Chennai,Fast Food
+62,Chennai,Chinese
+63,Mumbai,South Indian
+64,Delhi,Fast Food
+65,Mumbai,North Indian
+66,Kolkata,Chinese
+67,Mumbai,Chinese
+68,Kolkata,North Indian
+69,Kolkata,Fast Food
+70,Bengaluru,Continental
+71,Chennai,North Indian
+72,Kolkata,Fast Food
+73,Bengaluru,North Indian
+74,Chennai,North Indian
+75,Kolkata,South Indian
+76,Kolkata,Fast Food
+77,Mumbai,Continental
+78,Mumbai,South Indian
+79,Chennai,North Indian
+80,Kolkata,North Indian
+81,Delhi,North Indian
+82,Mumbai,Fast Food
+83,Chennai,Fast Food
+84,Kolkata,South Indian
+85,Kolkata,Continental
+86,Delhi,South Indian
+87,Chennai,Chinese
+88,Kolkata,North Indian
+89,Mumbai,North Indian
+90,Delhi,North Indian
+91,Chennai,South Indian
+92,Delhi,South Indian
+93,Mumbai,North Indian
+94,Chennai,South Indian
+95,Delhi,Fast Food
+96,Bengaluru,Fast Food
+97,Mumbai,South Indian
+98,Mumbai,North Indian
+99,Mumbai,South Indian
+100,Bengaluru,South Indian
+101,Bengaluru,South Indian
+102,Kolkata,Chinese
+103,Delhi,Fast Food
+104,Kolkata,Continental
+105,Delhi,Continental
+106,Bengaluru,Chinese
+107,Bengaluru,South Indian
+108,Kolkata,Chinese
+109,Chennai,Chinese
+110,Kolkata,North Indian
+111,Delhi,Fast Food
+112,Kolkata,Continental
+113,Mumbai,South Indian
+114,Delhi,Continental
+115,Delhi,Continental
+116,Chennai,Fast Food
+117,Bengaluru,Continental
+118,Delhi,Continental
+119,Bengaluru,Chinese
+120,Kolkata,Fast Food
+121,Mumbai,North Indian
+122,Chennai,South Indian
+123,Bengaluru,Continental
+124,Delhi,South Indian
+125,Bengaluru,North Indian
+126,Delhi,South Indian
+127,Bengaluru,North Indian
+128,Delhi,Chinese
+129,Kolkata,Continental
+130,Delhi,North Indian
+131,Delhi,South Indian
+132,Mumbai,Continental
+133,Delhi,Chinese
+134,Mumbai,Continental
+135,Chennai,North Indian
+136,Mumbai,Chinese
+137,Kolkata,South Indian
+138,Mumbai,Chinese
+139,Chennai,Chinese
+140,Kolkata,Fast Food
+141,Bengaluru,Chinese
+142,Bengaluru,Chinese
+143,Mumbai,Continental
+144,Mumbai,South Indian
+145,Chennai,Continental
+146,Chennai,Continental
+147,Delhi,North Indian
+148,Chennai,Continental
+149,Delhi,Fast Food
+150,Kolkata,Fast Food
+151,Mumbai,North Indian
+152,Kolkata,South Indian
+153,Chennai,South Indian
+154,Kolkata,Continental
+155,Kolkata,Continental
+156,Kolkata,Continental
+157,Chennai,South Indian
+158,Kolkata,Chinese
+159,Delhi,Fast Food
+160,Chennai,Chinese
+161,Kolkata,Chinese
+162,Chennai,South Indian
+163,Bengaluru,Chinese
+164,Delhi,North Indian
+165,Kolkata,Continental
+166,Bengaluru,North Indian
+167,Bengaluru,Fast Food
+168,Chennai,Continental
+169,Bengaluru,Chinese
+170,Delhi,Fast Food
+171,Delhi,Continental
+172,Mumbai,Chinese
+173,Delhi,North Indian
+174,Bengaluru,Continental
+175,Delhi,Chinese
+176,Chennai,North Indian
+177,Mumbai,Fast Food
+178,Bengaluru,Fast Food
+179,Mumbai,Fast Food
+180,Bengaluru,Fast Food
+181,Chennai,South Indian
+182,Mumbai,Continental
+183,Kolkata,Continental
+184,Bengaluru,South Indian
+185,Kolkata,Chinese
+186,Mumbai,Chinese
+187,Kolkata,Fast Food
+188,Kolkata,North Indian
+189,Mumbai,Chinese
+190,Chennai,North Indian
+191,Kolkata,Continental
+192,Kolkata,North Indian
+193,Chennai,Continental
+194,Kolkata,South Indian
+195,Kolkata,South Indian
+196,Kolkata,Fast Food
+197,Delhi,Chinese
+198,Chennai,Fast Food
+199,Kolkata,Continental
+200,Chennai,Fast Food
+201,Bengaluru,North Indian
+202,Bengaluru,Continental
+203,Kolkata,South Indian
+204,Chennai,Chinese
+205,Chennai,Continental
+206,Chennai,Continental
+207,Delhi,North Indian
+208,Bengaluru,Chinese
+209,Chennai,South Indian
+210,Chennai,Continental
+211,Delhi,Continental
+212,Delhi,North Indian
+213,Chennai,Fast Food
+214,Mumbai,South Indian
+215,Chennai,Chinese
+216,Chennai,Continental
+217,Delhi,Continental
+218,Delhi,South Indian
+219,Chennai,Fast Food
+220,Chennai,Continental
+221,Chennai,South Indian
+222,Delhi,North Indian
+223,Chennai,Fast Food
+224,Chennai,Chinese
+225,Kolkata,Continental
+226,Mumbai,South Indian
+227,Bengaluru,North Indian
+228,Mumbai,Chinese
+229,Kolkata,South Indian
+230,Bengaluru,South Indian
+231,Chennai,Chinese
+232,Kolkata,North Indian
+233,Chennai,North Indian
+234,Delhi,Fast Food
+235,Kolkata,Continental
+236,Delhi,Chinese
+237,Kolkata,Chinese
+238,Kolkata,Chinese
+239,Delhi,North Indian
+240,Bengaluru,Continental
+241,Mumbai,Fast Food
+242,Chennai,South Indian
+243,Kolkata,South Indian
+244,Chennai,Chinese
+245,Delhi,Continental
+246,Chennai,North Indian
+247,Delhi,Continental
+248,Chennai,Continental
+249,Mumbai,North Indian
+250,Mumbai,Chinese
+251,Mumbai,Continental
+252,Mumbai,South Indian
+253,Mumbai,North Indian
+254,Mumbai,Fast Food
+255,Delhi,Chinese
+256,Kolkata,North Indian
+257,Chennai,Fast Food
+258,Mumbai,Fast Food
+259,Delhi,Continental
+260,Delhi,Continental
+261,Delhi,Continental
+262,Kolkata,North Indian
+263,Chennai,North Indian
+264,Kolkata,Chinese
+265,Bengaluru,Continental
+266,Delhi,Fast Food
+267,Bengaluru,South Indian
+268,Mumbai,Chinese
+269,Mumbai,North Indian
+270,Kolkata,Chinese
+271,Chennai,Chinese
+272,Bengaluru,Chinese
+273,Chennai,Chinese
+274,Kolkata,South Indian
+275,Mumbai,Continental
+276,Chennai,Fast Food
+277,Chennai,Chinese
+278,Mumbai,Chinese
+279,Bengaluru,Chinese
+280,Mumbai,Continental
+281,Chennai,North Indian
+282,Bengaluru,North Indian
+283,Bengaluru,South Indian
+284,Mumbai,North Indian
+285,Chennai,Chinese
+286,Kolkata,Chinese
+287,Chennai,Chinese
+288,Delhi,South Indian
+289,Kolkata,Chinese
+290,Bengaluru,North Indian
+291,Kolkata,Continental
+292,Bengaluru,Continental
+293,Bengaluru,Fast Food
+294,Kolkata,North Indian
+295,Bengaluru,Chinese
+296,Bengaluru,Continental
+297,Delhi,North Indian
+298,Chennai,Continental
+299,Chennai,Chinese
+300,Delhi,Continental
+301,Kolkata,Fast Food
+302,Mumbai,Fast Food
+303,Mumbai,Continental
+304,Mumbai,North Indian
+305,Delhi,North Indian
+306,Delhi,North Indian
+307,Bengaluru,Continental
+308,Mumbai,North Indian
+309,Kolkata,Chinese
+310,Kolkata,Fast Food
+311,Mumbai,Chinese
+312,Mumbai,North Indian
+313,Mumbai,Chinese
+314,Delhi,North Indian
+315,Delhi,Continental
+316,Delhi,Chinese
+317,Chennai,Continental
+318,Kolkata,Continental
+319,Kolkata,South Indian
+320,Bengaluru,North Indian
+321,Delhi,Fast Food
+322,Chennai,North Indian
+323,Chennai,Fast Food
+324,Kolkata,North Indian
+325,Delhi,Continental
+326,Bengaluru,Chinese
+327,Delhi,Chinese
+328,Mumbai,South Indian
+329,Delhi,Fast Food
+330,Mumbai,Fast Food
+331,Mumbai,Fast Food
+332,Bengaluru,Continental
+333,Kolkata,Fast Food
+334,Delhi,Chinese
+335,Mumbai,Continental
+336,Delhi,North Indian
+337,Kolkata,Fast Food
+338,Kolkata,Fast Food
+339,Chennai,North Indian
+340,Kolkata,Fast Food
+341,Bengaluru,North Indian
+342,Mumbai,Continental
+343,Chennai,Chinese
+344,Bengaluru,North Indian
+345,Delhi,South Indian
+346,Mumbai,North Indian
+347,Kolkata,Fast Food
+348,Mumbai,Continental
+349,Delhi,Continental
+350,Chennai,North Indian
+351,Chennai,Chinese
+352,Chennai,South Indian
+353,Kolkata,Continental
+354,Bengaluru,Fast Food
+355,Bengaluru,Fast Food
+356,Mumbai,Chinese
+357,Kolkata,Continental
+358,Chennai,North Indian
+359,Chennai,Fast Food
+360,Delhi,Chinese
+361,Delhi,Continental
+362,Chennai,Continental
+363,Chennai,Continental
+364,Kolkata,Continental
+365,Bengaluru,Continental
+366,Delhi,Fast Food
+367,Bengaluru,Chinese
+368,Kolkata,Continental
+369,Chennai,South Indian
+370,Bengaluru,South Indian
+371,Chennai,Chinese
+372,Chennai,North Indian
+373,Mumbai,North Indian
+374,Bengaluru,North Indian
+375,Bengaluru,South Indian
+376,Chennai,North Indian
+377,Kolkata,Fast Food
+378,Mumbai,Continental
+379,Chennai,South Indian
+380,Delhi,Chinese
+381,Delhi,Chinese
+382,Mumbai,Continental
+383,Kolkata,South Indian
+384,Chennai,North Indian
+385,Bengaluru,North Indian
+386,Mumbai,Fast Food
+387,Kolkata,Fast Food
+388,Bengaluru,North Indian
+389,Delhi,Chinese
+390,Delhi,Chinese
+391,Bengaluru,Fast Food
+392,Mumbai,Continental
+393,Delhi,North Indian
+394,Chennai,Fast Food
+395,Bengaluru,Fast Food
+396,Bengaluru,North Indian
+397,Delhi,North Indian
+398,Mumbai,Chinese
+399,Chennai,Continental
+400,Mumbai,Continental
+401,Kolkata,North Indian
+402,Kolkata,South Indian
+403,Delhi,Fast Food
+404,Delhi,Fast Food
+405,Delhi,North Indian
+406,Kolkata,South Indian
+407,Mumbai,Chinese
+408,Mumbai,North Indian
+409,Delhi,North Indian
+410,Chennai,Fast Food
+411,Mumbai,North Indian
+412,Kolkata,North Indian
+413,Bengaluru,North Indian
+414,Bengaluru,Fast Food
+415,Bengaluru,Chinese
+416,Chennai,Chinese
+417,Delhi,North Indian
+418,Kolkata,Fast Food
+419,Chennai,Chinese
+420,Kolkata,Chinese
+421,Kolkata,Chinese
+422,Delhi,Fast Food
+423,Bengaluru,Fast Food
+424,Delhi,North Indian
+425,Chennai,Continental
+426,Chennai,Chinese
+427,Chennai,Continental
+428,Delhi,Fast Food
+429,Kolkata,Fast Food
+430,Kolkata,Fast Food
+431,Mumbai,Continental
+432,Chennai,Fast Food
+433,Kolkata,North Indian
+434,Mumbai,Fast Food
+435,Kolkata,South Indian
+436,Chennai,Continental
+437,Bengaluru,South Indian
+438,Chennai,Fast Food
+439,Delhi,North Indian
+440,Kolkata,Chinese
+441,Kolkata,Fast Food
+442,Delhi,North Indian
+443,Delhi,Continental
+444,Bengaluru,South Indian
+445,Kolkata,South Indian
+446,Kolkata,South Indian
+447,Bengaluru,Continental
+448,Mumbai,North Indian
+449,Bengaluru,Continental
+450,Chennai,South Indian
+451,Kolkata,Fast Food
+452,Delhi,Chinese
+453,Chennai,Continental
+454,Kolkata,Continental
+455,Bengaluru,North Indian
+456,Chennai,North Indian
+457,Kolkata,Continental
+458,Mumbai,South Indian
+459,Mumbai,Chinese
+460,Delhi,North Indian
+461,Kolkata,South Indian
+462,Mumbai,Fast Food
+463,Bengaluru,North Indian
+464,Kolkata,South Indian
+465,Bengaluru,South Indian
+466,Bengaluru,Chinese
+467,Mumbai,Chinese
+468,Kolkata,Fast Food
+469,Chennai,South Indian
+470,Mumbai,South Indian
+471,Mumbai,Chinese
+472,Kolkata,North Indian
+473,Kolkata,North Indian
+474,Bengaluru,Continental
+475,Kolkata,Chinese
+476,Bengaluru,Continental
+477,Mumbai,Chinese
+478,Delhi,Fast Food
+479,Chennai,South Indian
+480,Mumbai,Fast Food
+481,Kolkata,Chinese
+482,Chennai,South Indian
+483,Delhi,North Indian
+484,Delhi,North Indian
+485,Bengaluru,Continental
+486,Chennai,Chinese
+487,Bengaluru,Chinese
+488,Mumbai,North Indian
+489,Chennai,Fast Food
+490,Mumbai,South Indian
+491,Bengaluru,Fast Food
+492,Chennai,Fast Food
+493,Bengaluru,North Indian
+494,Chennai,North Indian
+495,Bengaluru,North Indian
+496,Delhi,Continental
+497,Bengaluru,Fast Food
+498,Delhi,Chinese
+499,Bengaluru,South Indian
+500,Chennai,Continental
