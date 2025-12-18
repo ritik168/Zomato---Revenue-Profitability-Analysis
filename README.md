@@ -1,4 +1,4 @@
-# 📌 Zomato :- Revenue-&-Profitability-Analysis
+# Zomato :- Revenue-&-Profitability-Analysis
 
 
 ## 📌 Project Title
